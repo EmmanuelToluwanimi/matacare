@@ -327,7 +327,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .navbar-default .navbar-nav li.appointment-btn a {
-    background: #a5c422;
+    background: #07C8F9;
     border-radius: 3px;
     color: #ffffff;
     font-weight: 600;
@@ -444,23 +444,23 @@ http://www.tooplate.com/view/2098-health
   }
 
   .slider .item {
-    background-position: inherit;
+    background-position: center;
     background-repeat: no-repeat;
     background-attachment: local;
-    background-size: cover;
+    background-size: 100%;
     height: 650px;
   }
 
   .slider .item-first {
-    background-image: url(../images/anna-hecker-wqcQ6ODwPxU-unsplash.jpg);
+    background-image: url(../images/preggiewithlaptop.jpg);
   }
 
   .slider .item-second {
-    background-image: url(../images/camylla-battani-dz8g0IxEqh0-unsplash.jpg);
+    background-image: url(../images/preggiehusbandandwife.jpg);
   }
 
   .slider .item-third {
-    background-image: url(../images/ryan-franco-8r1hxU8OfXA-unsplash.jpg);
+    background-image: url(../images/preggieblacko.jpg);
   }
 
 
@@ -469,7 +469,7 @@ http://www.tooplate.com/view/2098-health
   -----------------------------------------*/
 
   #about {
-    background: url('../images/about-bg.jpg') no-repeat top center;
+    background: url('../images/preggiemaledoctor.jpg') no-repeat top center;
     background-size: cover;
     padding-top: 150px;
     padding-bottom: 150px;
